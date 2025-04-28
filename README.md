@@ -1,2 +1,2 @@
-# Ra-zes-Paranaenses-Uma-Jornada-do-Campo-Metr-pole
+# Raízes-Paranaenses-Uma-Jornada-do-Campo-Metr-pole
 Este jogo narrativo acompanha uma família paranaense ao longo de diferentes gerações, desde os primeiros colonizadores até o futuro próximo, mostrando como as conexões entre campo e cidade se transformaram com o tempo. O jogador navega por momentos históricos importantes do Paraná, tomando decisões que afetam tanto o ambiente rural quanto o urbano.
